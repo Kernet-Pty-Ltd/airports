@@ -13,7 +13,8 @@
     "release": "pnpm run build && changeset publish",
     "test": "vitest",
     "lint": "tsc",
-    "example": "pnpm build && tsc ./example/test.ts && node ./example/test.js"
+    "example": "pnpm build && tsc ./example/test.ts && node ./example/test.js",
+    "preinstall": "npx only-allow pnpm"
   },
   "author": "Sivuyile Magutywa",
   "license": "MIT",
