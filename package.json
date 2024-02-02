@@ -1,7 +1,7 @@
 {
-  "name": "@kernet/smsportal",
+  "name": "@kernet/airports",
   "version": "0.1.0",
-  "description": "This library simplifies interaction with the SMSPortal API for sending SMS messages.",
+  "description": "This library of all internatinal airports.",
   "main": "lib/index.js",
   "module": "lib/index.mjs",
   "types": "lib/index.d.ts",
@@ -18,7 +18,7 @@
   "author": "Sivuyile Magutywa",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/Kernet-Pty-Ltd/smsportal"
+    "url": "https://github.com/Kernet-Pty-Ltd/airports"
   },
   "maintainers": [
     {
