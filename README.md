@@ -30,7 +30,7 @@ pnpm add @kernet/airports
 
 ### Get full details
 ```ts
-import { getAirports } @kernet/airports;
+import { getAirports } from "@kernet/airports";
 
 const airports = getAirports();
 
