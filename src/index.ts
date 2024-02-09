@@ -1,10 +1,12 @@
 import { AirportType } from "./models";
-import * as airportData from "./airport.json";
+import { airportsData } from "./airports";
 
-const data: AirportType[] = airportData;
+
 
 const getAirports = () => {
-    return data;
+    return airportsData;
 }
+
+
 
 export { getAirports };

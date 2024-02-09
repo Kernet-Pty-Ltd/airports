@@ -1,4 +1,6 @@
-[
+
+
+export  const airportsData  = [
     {
       "name": "Hartsfield Jackson Atlanta Intl",
       "city": "Atlanta",
