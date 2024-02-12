@@ -1,5 +1,6 @@
 import { AirportType } from "./models";
-import { airportsData } from "./airports";
+import { airportsData} from "./airports";
+import { airlinesData } from "./airlines";
 
 
 
@@ -7,6 +8,10 @@ const getAirports = () => {
     return airportsData;
 }
 
+const getAirlines = () => {
+    return airlinesData;
+}
 
 
-export { getAirports };
+
+export { getAirports, getAirlines};

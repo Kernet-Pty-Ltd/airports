@@ -1,6 +1,7 @@
-import {getAirports } from '../src/index'
+import {getAirports, getAirlines } from '../src/index'
+
 
 
 console.log(getAirports())
-//console.log(getAirlines())
+console.log(getAirlines())
 
