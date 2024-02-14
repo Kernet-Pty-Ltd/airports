@@ -1,10 +1,9 @@
 export  const airlinesData =
 [
-     
+    {"country": "Singapore", "name": "Abacus International", "icao": ""},
     {"country": "South Africa", "name": "1Time Airline", "icao": "RNX"},
     {"country": "United States", "name": "40-Mile Air", "icao": "MLA"},
     {"country": "Australia", "name": "Ansett Australia", "icao": "AAA"},
-    {"country": "Singapore", "name": "Abacus International", "icao": ""},
     {"country": "France", "name": "Aigle Azur", "icao": "AAF"},
     {"country": "United States", "name": "Aloha Airlines", "icao": "AAH"},
     {"country": "United States", "name": "American Airlines", "icao": "AAL"},
