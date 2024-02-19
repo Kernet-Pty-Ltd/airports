@@ -1,4 +1,4 @@
-<h1 align="center">AIRPORTS</h1>
+<h1 align="center">AIRPORTS, AIRLINES</h1>
 
 ## ℹ️️ Description
 
@@ -11,17 +11,20 @@ Install using npm:
 
 ```
 npm install @kernet/airports
+npm install @kernet/airlines
 ```
 
 Install using yarn:
 
 ```
 yarn add @kernet/airports
+yarn add @kernet/airlines
 ```
 Install using pnpm:
 
 ```
 pnpm add @kernet/airports
+pnpm add @kernet/airlines
 ```
 
 <br>
