@@ -38,7 +38,7 @@ import {getAirlines } from "@kernet/airlines";
 
 const airports = getAirports();
 
-const airlines = const getAirlines();
+const airlines = getAirlines();
 
 ```
 
