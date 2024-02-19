@@ -31,8 +31,11 @@ pnpm add @kernet/airports
 ### Get full details
 ```ts
 import { getAirports } from "@kernet/airports";
+import {getAirlines } from "@kernet/airlines";
 
 const airports = getAirports();
+
+const airlines = const getAirlines();
 
 ```
 
