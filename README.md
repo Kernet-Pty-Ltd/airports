@@ -11,12 +11,14 @@ Install using npm:
 
 ```
 npm install @kernet/airports
+
 ```
 
 Install using yarn:
 
 ```
 yarn add @kernet/airports
+
 ```
 Install using pnpm:
 
@@ -30,9 +32,11 @@ pnpm add @kernet/airports
 
 ### Get full details
 ```ts
-import { getAirports } from "@kernet/airports";
+import { getAirports, getAirlines } from "@kernet/airports";
 
 const airports = getAirports();
+
+const airlines = getAirlines();
 
 ```
 
