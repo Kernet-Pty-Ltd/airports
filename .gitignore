@@ -6,6 +6,7 @@ logs
 npm-debug.log*
 
 example/*.js
+src/*.js
 
 # nodist config for testing in different versions of node
 .node-version
