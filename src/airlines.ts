@@ -1,4 +1,6 @@
-export  const airlinesData =
+import { AirlineType, AirportType } from "./models";
+
+export  const airlinesData: AirlineType[] =
 [
     {"country": "Singapore", "name": "Abacus International", "icao": ""},
     {"country": "South Africa", "name": "1Time Airline", "icao": "RNX"},
@@ -1024,7 +1026,7 @@ export  const airlinesData =
         {"country": "Brazil", "name": "BRAZIL AIR", "icao": "BZE"},
         {"country": "Germany", "name": "Homer Air", "icao": "OME"},
         {"country": "United States", "name": "U.S. Air", "icao": "--+"},
-        {"country": "Australia", "name": "Jayrow"},
+        {"country": "Australia", "name": "Jayrow", "icao": "\\N"},
         {"country": "Australia", "name": "Wilderness Air", "icao": "\\N"},
         {"country": "Australia", "name": "Whitaker Air", "icao": "\\N"},
         {"country": "United States", "name": "PanAm World Airways", "icao": "PQW"},

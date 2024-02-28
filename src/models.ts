@@ -5,3 +5,11 @@ export interface AirportType  {
     iata_code:string;
 
   }
+
+
+  export interface AirlineType  {
+    name: string;
+    country: string;
+    icao:string;
+
+  }

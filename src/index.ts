@@ -14,4 +14,4 @@ const getAirlines = () => {
 
 
 
-export { getAirports, getAirlines};
+export { getAirports, getAirlines, AirportType};
