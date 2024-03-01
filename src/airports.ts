@@ -1,6 +1,8 @@
+import { AirlineType, AirportType } from "./models";
 
 
-export  const airportsData  = [
+
+export  const airportsData: AirportType[] = [
     {
       "name": "Hartsfield Jackson Atlanta Intl",
       "city": "Atlanta",

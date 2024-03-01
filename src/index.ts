@@ -1,4 +1,4 @@
-import { AirportType } from "./models";
+import { AirlineType, AirportType } from "./models";
 import { airportsData} from "./airports";
 import { airlinesData } from "./airlines";
 
@@ -14,4 +14,4 @@ const getAirlines = () => {
 
 
 
-export { getAirports, getAirlines, AirportType};
+export { getAirports, getAirlines, AirportType, AirlineType };

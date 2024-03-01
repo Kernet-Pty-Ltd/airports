@@ -1,6 +1,6 @@
-import { AirlineType, AirportType } from "./models";
+import { AirlineType} from "./models";
 
-export  const airlinesData: AirlineType[] =
+export  const airlinesData:  AirlineType[] =
 [
     {"country": "Singapore", "name": "Abacus International", "icao": ""},
     {"country": "South Africa", "name": "1Time Airline", "icao": "RNX"},
