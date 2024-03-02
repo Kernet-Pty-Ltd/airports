@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-import {getAirports, getAirlines, AirportType, AirlineType } from '../src/index'
-=======
-import {getAirports, getAirlines } from '../src/index'
-
->>>>>>> origin/main
+import { getAirports, getAirlines, AirportType, AirlineType } from '../src/index'
 
 const airports: AirportType[] = getAirports();
 const airlines: AirlineType[] = getAirlines();
