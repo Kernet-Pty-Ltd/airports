@@ -14,6 +14,12 @@ export const airportsData: AirportType[] = [
     "iata_code": "ORD"
   },
   {
+    "name": "Kimberley Airport",
+    "city": "Kimberley",
+    "country": "South Africa",
+    "iata_code": "KIM"
+  },
+  {
     "name": "Capital Intl",
     "city": "Beijing",
     "country": "China",
