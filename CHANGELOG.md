@@ -1,5 +1,11 @@
 # @kernet/airports
 
+## 3.0.0
+
+### Major Changes
+
+- e61ea94: add kimberly
+
 ## 2.1.0
 
 ### Minor Changes
