@@ -1,6 +1,6 @@
 {
   "name": "@kernet/airports",
-  "version": "3.0.2",
+  "version": "3.0.4",
   "description": "This library of all internatinal airports.",
   "main": "lib/index.js",
   "module": "lib/index.mjs",

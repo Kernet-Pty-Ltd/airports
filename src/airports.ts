@@ -13,7 +13,6 @@ export const airportsData: AirportType[] = [
     "country": "United States",
     "iata_code": "ORD"
   },
-
   {
     "name": "Adolfo Suárez Madrid–Barajas",
     "city": "Madrid",
