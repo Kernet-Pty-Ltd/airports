@@ -13,6 +13,25 @@ export const airportsData: AirportType[] = [
     "country": "United States",
     "iata_code": "ORD"
   },
+
+  {
+    "name": "Adolfo Suárez Madrid–Barajas",
+    "city": "Madrid",
+    "country": "Spain",
+    "iata_code": "MAD"
+  },
+  {
+    "name": "Madrid–Torrejón",
+    "city": "Madrid",
+    "country": "Spain",
+    "iata_code": "TOJ"
+  },
+  {
+    "name": "Madrid-Cuatro Vientos",
+    "city": "Madrid",
+    "country": "Spain",
+    "iata_code": "ECV"
+  },
   {
     "name": "Kimberley Airport",
     "city": "Kimberley",
