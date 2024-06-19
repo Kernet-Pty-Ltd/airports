@@ -1,5 +1,11 @@
 # @kernet/airports
 
+## 3.0.1
+
+### Patch Changes
+
+- 1d1f3bd: add madrid MAD
+
 ## 3.0.0
 
 ### Major Changes
