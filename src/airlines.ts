@@ -139,6 +139,7 @@ export const airlinesData: AirlineType[] =
     { "country": "Italy", "name": "Air Dolomiti", "icao": "DLA" },
     { "country": "Russia", "name": "Aeroflot-Don", "icao": "DNV" },
     { "country": "Spain", "name": "Air Madrid", "icao": "DRD" },
+    { "country": "Spain", "name": "Madrid - Adolfo Suárez", "icao": "MAD" },
     { "country": "Ireland", "name": "Aer Lingus", "icao": "EIN" },
     { "country": "Finland", "name": "Air Finland", "icao": "FIF" },
     { "country": "Finland", "name": "Airfix Aviation", "icao": "FIX" },
