@@ -4622,6 +4622,13 @@ export const airportsData: AirportType[] = [
     "iata_code": "CEI"
   },
   {
+    "name": "Barcelona El Prat Airport Intl",
+    "city": "Barcelona",
+    "country": "Spain",
+    "iata_code": "BCN"
+  },
+
+  {
     "name": "General Jose Antonio Anzoategui Intl",
     "city": "Barcelona",
     "country": "Venezuela",
