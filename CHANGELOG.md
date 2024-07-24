@@ -1,5 +1,11 @@
 # @kernet/airports
 
+## 3.1.0
+
+### Minor Changes
+
+- c5b83db: add madrid
+
 ## 3.0.1
 
 ### Patch Changes
